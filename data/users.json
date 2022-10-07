@@ -1,0 +1,34 @@
+[
+  {
+    "email": "test01@mail.com",
+    "password": "test01",
+    "username": "test01",
+    "role": "Staff",
+    "phoneNumber": "082108210821",
+    "address": "Indonesia"
+  },
+  {
+    "email": "test02@mail.com",
+    "password": "test02",
+    "username": "test02",
+    "role": "Staff",
+    "phoneNumber": "083208320832",
+    "address": "Indonesia"
+  },
+  {
+    "email": "admin@mail.com",
+    "password": "admin",
+    "username": "admin",
+    "role": "Admin",
+    "phoneNumber": "098098098",
+    "address": "Indonesia"
+  },
+  {
+    "email": "test03@mail.com",
+    "password": "test03",
+    "username": "test03",
+    "role": "Customer",
+    "phoneNumber": "098098098",
+    "address": "Indonesia"
+  }
+]

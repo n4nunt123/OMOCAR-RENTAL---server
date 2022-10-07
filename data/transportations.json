@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Hyundai Verna",
+    "description": "Mobil nyaman untuk berpergian dengan kapasitas 5 penumpang.\ntransmisi Manual-Automatic (CVT)\negine 1500cc\ntop speed 210 Kmph",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1007286935926095954/1011141958917431386/unknown.png",
+    "location": "Indonesia",
+    "price": "500000",
+    "typeId": 3,
+    "authorId": 2
+  },
+  {
+    "name": "BMW 7",
+    "description": "Mobil nyaman untuk berpergian dengan kapasitas 5 penumpang.\ntransmisi Automatic\negine 3000cc\ntop speed 250 Kmph",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1007286935926095954/1011146966295654492/unknown.png",
+    "location": "Indonesia",
+    "price": "1500000",
+    "typeId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Toyota Hiace",
+    "description": "Pilihan terbaik untuk keluarga besar",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1007286935926095954/1011146966295654492/unknown.png",
+    "location": "Indonesia",
+    "price": "750000",
+    "typeId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Audi Q5",
+    "description": "Varian 2022 Audi Q5. Lihat harga, biaya, overview, warna, spesifikasi mesin, dimensi, fitur keselamatan dan teknologi dimensi, powertrain, drivetrain, sasis, rem dan roda, peringkat keselamatan.",
+    "imgUrl": "https://images.autofun.co.id/file1/9321c42ff8f249758eb281b283f4d0b9_606x402.jpg",
+    "location": "Jakarta",
+    "price": 1000000000,
+    "typeId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Honda Civic",
+    "description": "Gaya funky & futuristik. Build dan kualitas konstruksi terbaik. Bensin yang halus dan bersahabat, atau diesel yang praktis - pilihlah",
+    "imgUrl": "https://images.autofun.co.id/file1/52519bfbe96d4d13852f87a3166fb3fd_606x402.jpg",
+    "location": "Jakarta",
+    "price": 550000000,
+    "typeId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Mazda 3",
+    "description": "Mazda 3 merupakan serangkaian mobil kompak yang diproduksi Mazda sejak tahun 2003. Di Indonesia, Mazda 3 2019 mendapatkan pembaruan dalam bentuk sedan dan hatchback dari generasi keempat.",
+    "imgUrl": "https://images.autofun.co.id/file1/0e36c0d17b2c40afb1db73b77ac8c59f_606x402.jpg",
+    "location": "Bandung",
+    "price": 523000000,
+    "typeId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Toyota Camry",
+    "description": "Performa Toyota Camry yang baik ini didukung dengan penggunaan suspensi depan Mac Pherson Strut dan suspensi belakang Dual Link.",
+    "imgUrl": "https://images.autofun.co.id/file1/1fe697493c3b4524a12f68000ef8666a_606x402.jpg",
+    "location": "Bandung",
+    "price": 600000000,
+    "typeId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Honda HRV",
+    "description": "Segmen SUV C+ dan D, rival Toyota Urban Cruiser Hyryder 2022 yakni Hyundai Creta, Kia Seltos dan juga sesama pabrikan Jepang, Honda HR-V.",
+    "imgUrl": "https://images.autofun.co.id/file1/8c88c0511b9a40b4b581f6dbb1ac45ee_606x402.jpg",
+    "location": "Banten",
+    "price": 500000000,
+    "typeId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Honda CRV",
+    "description": "Banyak pabrikan mobil yang berlomba-lomba menciptakan mobil SUV berkualitas, salah satunya adalah Honda yang mengeluarkan SUV andalannya, Honda CRV.",
+    "imgUrl": "https://images.autofun.co.id/file1/c0f18f4697674b62973c15d368698941_606x402.jpg",
+    "location": "Banten",
+    "price": 577000000,
+    "typeId": 4,
+    "authorId": 2
+  },
+  {
+    "name": "Audi A6",
+    "description": "Audi A6 merupakan mobil executive car yang mulai diproduksi pada tahun 1994. Tersedia 1 varian yaitu A6 1.8 TFSI.",
+    "imgUrl": "https://images.autofun.co.id/file1/6f6d4d68d16f443e8b21de392f061acf_606x402.jpg",
+    "location": "Bekasi",
+    "price": 828000000,
+    "typeId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Daihatsu Luxio",
+    "description": "Daihatsu Luxio 2021 - 2022 ditawarkan dalam 3 varian - mulai Rp 205,95Juta hingga Rp 235,20Juta , varian entry levelnya yaitu Daihatsu Luxio 1.5 D M/T.",
+    "imgUrl": "https://images.autofun.co.id/file1/c13212bf3f034133b08849fa08947ce9_606x402.jpg",
+    "location": "Bekasi",
+    "price": 232000000,
+    "typeId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Volkswagen Scirocco",
+    "description": "The Volkswagen Scirocco is a three-door, front-engine, front-wheel-drive, sport compact hatchback manufactured and marketed by Volkswagen.",
+    "imgUrl": "https://images.autofun.co.id/file1/8c6f1208e575460dac9404391c85a66d_606x402.png",
+    "location": "Yogyakarta",
+    "price": 880000000,
+    "typeId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Sprinter",
+    "description": "Mercedes-Benz Sprinter 2021 - 2022 ditawarkan dalam 2 varian - mulai Rp 955,00Juta hingga Rp 975,00Juta , varian entry levelnya yaitu Mercedes-Benz Sprinter 315 CDI A2",
+    "imgUrl": "https://images.autofun.co.id/file1/5ad9a7927f124bd0ab3f5e090c25d492_404x268.jpg",
+    "location": "Yogyakarta",
+    "price": 975000000,
+    "typeId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "BMW X1",
+    "description": "BMW X1 dilengkapi dengan mesin empat silinder turbocharged 228 hp, yang memberikan tenaga yang cukup besar dan penghematan bahan bakar yang ekonomis. Di jalan yang berkelok-kelok, X1 dapat memberikan handling yang tajam.",
+    "imgUrl": "https://images.autofun.co.id/file1/58fa364fe2364152b454122667ae03e6_606x402.jpg",
+    "location": "Surabaya",
+    "price": 650000000,
+    "typeId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Toyota Voxy",
+    "description": "Fitur Keselamatan Toyota Voxy kini dilengkapi dengan Toyota Safety Sense (TSS) 3.0. Mesin Toyota 2.0L Dynamic Force terbaru lebih bertenaga.",
+    "imgUrl": "https://images.autofun.co.id/file1/b536f2b03e8548579979bd64c1a14ce6_606x402.jpg",
+    "location": "Surabaya",
+    "price": 501000000,
+    "typeId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Hyundai Verna SECOND",
+    "description": "Mobil nyaman untuk berpergian dengan kapasitas 5 penumpang.\ntransmisi Manual-Automatic (CVT)\negine 1500cc\ntop speed 210 Kmph",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1007286935926095954/1011141958917431386/unknown.png",
+    "location": "Indonesia",
+    "price": "500000",
+    "typeId": 3,
+    "authorId": 2
+  },
+  {
+    "name": "BMW 7 SECOND",
+    "description": "Mobil nyaman untuk berpergian dengan kapasitas 5 penumpang.\ntransmisi Automatic\negine 3000cc\ntop speed 250 Kmph",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1007286935926095954/1011146966295654492/unknown.png",
+    "location": "Indonesia",
+    "price": "1500000",
+    "typeId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Toyota Hiace SECOND",
+    "description": "Pilihan terbaik untuk keluarga besar",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1007286935926095954/1011146966295654492/unknown.png",
+    "location": "Indonesia",
+    "price": "750000",
+    "typeId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Audi Q5 SECOND",
+    "description": "Varian 2022 Audi Q5. Lihat harga, biaya, overview, warna, spesifikasi mesin, dimensi, fitur keselamatan dan teknologi dimensi, powertrain, drivetrain, sasis, rem dan roda, peringkat keselamatan.",
+    "imgUrl": "https://images.autofun.co.id/file1/9321c42ff8f249758eb281b283f4d0b9_606x402.jpg",
+    "location": "Jakarta",
+    "price": 1000000000,
+    "typeId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Honda Civic SECOND",
+    "description": "Gaya funky & futuristik. Build dan kualitas konstruksi terbaik. Bensin yang halus dan bersahabat, atau diesel yang praktis - pilihlah",
+    "imgUrl": "https://images.autofun.co.id/file1/52519bfbe96d4d13852f87a3166fb3fd_606x402.jpg",
+    "location": "Jakarta",
+    "price": 550000000,
+    "typeId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Mazda 3 SECOND",
+    "description": "Mazda 3 merupakan serangkaian mobil kompak yang diproduksi Mazda sejak tahun 2003. Di Indonesia, Mazda 3 2019 mendapatkan pembaruan dalam bentuk sedan dan hatchback dari generasi keempat.",
+    "imgUrl": "https://images.autofun.co.id/file1/0e36c0d17b2c40afb1db73b77ac8c59f_606x402.jpg",
+    "location": "Bandung",
+    "price": 523000000,
+    "typeId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Toyota Camry SECOND",
+    "description": "Performa Toyota Camry yang baik ini didukung dengan penggunaan suspensi depan Mac Pherson Strut dan suspensi belakang Dual Link.",
+    "imgUrl": "https://images.autofun.co.id/file1/1fe697493c3b4524a12f68000ef8666a_606x402.jpg",
+    "location": "Bandung",
+    "price": 600000000,
+    "typeId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Honda HRV SECOND",
+    "description": "Segmen SUV C+ dan D, rival Toyota Urban Cruiser Hyryder 2022 yakni Hyundai Creta, Kia Seltos dan juga sesama pabrikan Jepang, Honda HR-V.",
+    "imgUrl": "https://images.autofun.co.id/file1/8c88c0511b9a40b4b581f6dbb1ac45ee_606x402.jpg",
+    "location": "Banten",
+    "price": 500000000,
+    "typeId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Honda CRV SECOND",
+    "description": "Banyak pabrikan mobil yang berlomba-lomba menciptakan mobil SUV berkualitas, salah satunya adalah Honda yang mengeluarkan SUV andalannya, Honda CRV.",
+    "imgUrl": "https://images.autofun.co.id/file1/c0f18f4697674b62973c15d368698941_606x402.jpg",
+    "location": "Banten",
+    "price": 577000000,
+    "typeId": 4,
+    "authorId": 2
+  },
+  {
+    "name": "Audi A6 SECOND",
+    "description": "Audi A6 merupakan mobil executive car yang mulai diproduksi pada tahun 1994. Tersedia 1 varian yaitu A6 1.8 TFSI.",
+    "imgUrl": "https://images.autofun.co.id/file1/6f6d4d68d16f443e8b21de392f061acf_606x402.jpg",
+    "location": "Bekasi",
+    "price": 828000000,
+    "typeId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Daihatsu Luxio SECOND",
+    "description": "Daihatsu Luxio 2021 - 2022 ditawarkan dalam 3 varian - mulai Rp 205,95Juta hingga Rp 235,20Juta , varian entry levelnya yaitu Daihatsu Luxio 1.5 D M/T.",
+    "imgUrl": "https://images.autofun.co.id/file1/c13212bf3f034133b08849fa08947ce9_606x402.jpg",
+    "location": "Bekasi",
+    "price": 232000000,
+    "typeId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Volkswagen Scirocco SECOND",
+    "description": "The Volkswagen Scirocco is a three-door, front-engine, front-wheel-drive, sport compact hatchback manufactured and marketed by Volkswagen.",
+    "imgUrl": "https://images.autofun.co.id/file1/8c6f1208e575460dac9404391c85a66d_606x402.png",
+    "location": "Yogyakarta",
+    "price": 880000000,
+    "typeId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Sprinter SECOND",
+    "description": "Mercedes-Benz Sprinter 2021 - 2022 ditawarkan dalam 2 varian - mulai Rp 955,00Juta hingga Rp 975,00Juta , varian entry levelnya yaitu Mercedes-Benz Sprinter 315 CDI A2",
+    "imgUrl": "https://images.autofun.co.id/file1/5ad9a7927f124bd0ab3f5e090c25d492_404x268.jpg",
+    "location": "Yogyakarta",
+    "price": 975000000,
+    "typeId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "BMW X1 SECOND",
+    "description": "BMW X1 dilengkapi dengan mesin empat silinder turbocharged 228 hp, yang memberikan tenaga yang cukup besar dan penghematan bahan bakar yang ekonomis. Di jalan yang berkelok-kelok, X1 dapat memberikan handling yang tajam.",
+    "imgUrl": "https://images.autofun.co.id/file1/58fa364fe2364152b454122667ae03e6_606x402.jpg",
+    "location": "Surabaya",
+    "price": 650000000,
+    "typeId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Toyota Voxy SECOND",
+    "description": "Fitur Keselamatan Toyota Voxy kini dilengkapi dengan Toyota Safety Sense (TSS) 3.0. Mesin Toyota 2.0L Dynamic Force terbaru lebih bertenaga.",
+    "imgUrl": "https://images.autofun.co.id/file1/b536f2b03e8548579979bd64c1a14ce6_606x402.jpg",
+    "location": "Surabaya",
+    "price": 501000000,
+    "typeId": 2,
+    "authorId": 2
+  }
+]
